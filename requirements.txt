@@ -1,0 +1,8 @@
+pygad==3.2.0 # optional lib for genetic optimization
+matplotlib==3.8.0
+numpy==1.24.3
+timm==0.9.7
+ninja==1.11.1.1
+cython==3.0.7
+jupyter
+
